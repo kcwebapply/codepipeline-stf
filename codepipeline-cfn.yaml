@@ -9,7 +9,7 @@ Parameters:
   GitHubRepo:
     Type: String
     Default: sample-stf
-    Description: GitHub repository in format owner/repo
+    Description: GitHub repository in format owner/repoee
   GitHubBranch:
     Type: String
     Default: main
